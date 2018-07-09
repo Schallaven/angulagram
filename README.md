@@ -1,6 +1,6 @@
 # Quantitative characterization of molecular-stream separation
 
-
+[![DOI](https://zenodo.org/badge/116405893.svg)](https://zenodo.org/badge/latestdoi/116405893)
 
 ## Introduction
 
